@@ -1,0 +1,20 @@
+{
+  "interact": {
+    "magic": "APF_VER_1",
+    "variables": [
+      {
+        "name": "255 Lives Cheat",
+        "id": 1,
+        "type": "check",
+        "enabled": true,
+        "persist": false,
+        "writeonly": false,
+        "address": "0x50000008",
+        "defaultval": 0,
+        "value": 1,
+        "value_off": 0
+      }
+    ],
+    "messages": null
+  }
+}
