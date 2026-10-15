@@ -19,3 +19,7 @@
 **/__pycache__/
 
 **/apf/build_id.mif
+
+# Historical local development artifacts
+/source/pocket-port/fpga/ap_core.qsf.pacman-backup
+/source/pocket-port/fpga/core/core_top.pacman-reference.v
